@@ -1,0 +1,22 @@
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.cache
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
